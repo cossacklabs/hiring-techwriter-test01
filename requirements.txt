@@ -1,0 +1,2 @@
+requests==2.31.0
+schema==0.7.5
